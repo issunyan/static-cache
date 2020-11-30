@@ -1,0 +1,27 @@
+{
+  "name": "@issunyan/static-cache",
+  "version": "1.0.0",
+  "description": "assets cache",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "idb-keyval": "^3.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "prettier": "^2.2.1",
+    "standard-version": "^9.0.0"
+  }
+}
